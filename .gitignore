@@ -1,0 +1,4 @@
+# Editor files
+*.geany
+# Data files
+/books
